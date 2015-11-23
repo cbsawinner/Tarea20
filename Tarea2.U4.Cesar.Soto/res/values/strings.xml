@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Frescos S.A</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ver_clientes">View Customer</string>
+    <string name="ls_clientes">Customer Code</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="phone">Phone</string>
+    <string name="add_register">Added Register</string>
+    <string name="update_register">Updated Register</string>
+    <string name="delete_register">Deleted Register</string>
+    <string name="customer">Customer</string>
+</resources>
