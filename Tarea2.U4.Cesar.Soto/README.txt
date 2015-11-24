@@ -1,9 +1,9 @@
-Titulo: Actividad 18 - Tarea Sumativa.
-Nombre de Proyecto: Tarea1.U4.Cesar.Soto
+Titulo: Actividad 20 - Tarea Sumativa.
+Nombre de Proyecto: Tarea2.U4.Cesar.Soto
 Asignatura: Programación de Aplicaciones Moviles en Android
 Profesor: Andrés Esteban Muñoz Ordenes / Mario Hernandez Concha
 Alumno: César Soto Alarcón
-Fecha de Entrega: 16/11/2015
+Fecha de Entrega: 23/11/2015
 
 Acotaciones sobre el proyecto:
 Se lanza la activity principal que tiene un botón que nos lleva a la activity clientes,
@@ -22,7 +22,9 @@ que permite soporte para ese tipo de dispositivos, además de la reestructuración
 de botones con imágenes que permita un diseño de botones en una fila en vez de dos
 como se muestra en el teléfono.
 
-En la carpeta bin va el apk instable para tablet o teléfono.
 
+En la carpeta bin va el apk instable para tablet o teléfono.
 Se cambia de fondo a la aplicación, se añade un icono de la aplicación también.
 
+Se cambia la internacionalización a dos idiomas Español-Inglés
+En enlace de git es https://github.com/cbsawinner/Tarea20/tree/master/Tarea2.U4.Cesar.Soto
